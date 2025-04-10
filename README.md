@@ -2,14 +2,6 @@
 
 # Hi  👋
 
-  
-
-<p align="left">
-<a href="https://github.com/atabek023/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=text&text=IM%20HARISH&fill=linear-gradient%28to%20top%2C%20%23a18cd1%200%25%2C%20%23fbc2eb%20100%25%29%3B">
-</a>
-</p>  
-
 <p align="left">
 <a href="https://github.com/atabek023/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=experience&company=CRED_CLUB&role=Frontend%20Engineer%20&location=Bangalore&fill=black">

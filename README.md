@@ -5,7 +5,7 @@
   
 
 <p align="left">
-<a href="https://github.com/harish-sethuraman/readme-components">
+<a href="https://github.com/atabek023/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=text&text=IM%20HARISH&fill=linear-gradient%28to%20top%2C%20%23a18cd1%200%25%2C%20%23fbc2eb%20100%25%29%3B">
 </a>
 </p>  
@@ -91,7 +91,7 @@
 
 
 <p align="left">
-<a href="https://github.com/harish-sethuraman/readme-components">
+<a href="https://github.com/atabek-sethuraman/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=">
 </a>
 </p>
